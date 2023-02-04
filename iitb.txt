@@ -1,0 +1,43 @@
+-----------------------------------------------------------------------
+WELCOME TAPOMOY ADHIKARI TO THE INSTITUTE AS THE JUNIOR-MOST RESEARCHER 
+-----------------------------------------------------------------------
+
+Tapomoy Adhikari 
+Indian Institute of Technology, Bombay
+----------------------------------------------------------------------
+
+Contact No.: +91 96098 00138
+	     +91 99335 61389
+E-mail ID: tapo3930@gmail.com
+	   tapomoy@iitb.ac.in
+	   tapomoy.adhikari@griffins.edu.in
+	   tapomoyadhikari@google.com
+
+
+Residential Address: Bengaluru, Karnataka, India
+Address of Correspondance: CSE Office, Indian Institute of Technology, Bombay, Powai, Mumbai, 400017
+Switch: +91 32223 16700
+Telephone: +91 32223 16700
+Fax (Office): +91 32223 16700
+
+-----------------------------------------------------------------------
+Appointed as the Junior-most AI & ML Researcher at the institute
+
+
+-----------------------------------------------------------------------
+RESEARCH EXPERIENCE
+-----------------------------------------------------------------------
+1. Junior Research Fellow at Google HQ
+2. Principal Researcher at Microsoft India
+3. Principal Researcher (AI) at Huawei India
+4. Junior Researcher (AI & Distributed Systems) at Tata Consultancy Services, India	
+
+------------------------------------------------------------------------
+PUBLICATIONS
+------------------------------------------------------------------------
+1.	Scalable Quantum Computer Architecture using Superconducting Qubits. 
+2.	Development of a Cloud-based Infrastructure for Big Data Analytics [Published under Google and Microsoft at IEEE Xplore]
+3.	A Comparative Study of IP Address Representation Formats: Performance and Scalability Analysis [Published under Microsoft at IEEE Xplore]
+4.	A Study of Computational Learning Theory and its Applications to Machine Learning [Re-published by Microsoft Corp.]
+5.	Design and Implementation of Cloud-based Secured File Sharing System [Published by Dept. of Science and Technology (DST), Government of India]
+6.	Investigating the Impact of Hyperparameter Optimization on Image Recognition with Deep Learning [Published by Google & Microsoft; Co-authored by Microsoft India & Google]
