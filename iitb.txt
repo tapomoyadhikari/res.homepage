@@ -31,7 +31,11 @@ RESEARCH EXPERIENCE
 1. Junior Research Fellow at Google HQ
 2. Principal Researcher at Microsoft India
 3. Principal Researcher (AI) at Huawei India
-4. Junior Researcher (AI & Distributed Systems) at Tata Consultancy Services, India	
+4. Junior Researcher (AI & Distributed Systems) at Tata Consultancy Services, India
+5. Junior Researcher (AI & ML) at Cognizant Technology Solutions
+6. Senior Researcher (AI & ML) at Google
+7. Senior Researcher (ML & Distributed Systems) at Accenture India
+	
 
 ------------------------------------------------------------------------
 PUBLICATIONS
